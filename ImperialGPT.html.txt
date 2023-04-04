@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Clan di Clash of Clans</title>
+  <link rel="stylesheet" href="IImperialSTILE.css"> type="text/css">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+  <header>
+    <h1>Clan di Clash of Clans</h1>
+    <nav>
+      <ul>
+        <li><a href="#about">Chi siamo</a></li>
+        <li><a href="#rules">Regole</a></li>
+        <li><a href="#join">Unisciti a noi</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section id="about">
+      <h2>Chi siamo</h2>
+      <p>Siamo un clan di Clash of Clans composto da giocatori esperti e appassionati. Cercando sempre di migliorare e divertirci insieme, siamo alla ricerca di nuovi membri per rafforzare il nostro clan.</p>
+    </section>
+
+    <section id="rules">
+      <h2>Regole</h2>
+      <ul>
+        <li>Partecipare alle battaglie di clan regolarmente</li>
+        <li>Comunicare e collaborare con gli altri membri del clan</li>
+        <li>Rispettare gli altri giocatori</li>
+      </ul>
+    </section>
+
+    <section id="join">
+      <h2>Unisciti a noi</h2>
+      <p>Se sei interessato a diventare parte del nostro clan, inviaci una richiesta di adesione tramite il gioco o contattaci attraverso i nostri canali social.</p>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; Clan di Clash of Clans 2023</p>
+  </footer>
+</body>
+</html>
